@@ -1,0 +1,14 @@
+.thanks__layer {
+    position: relative;
+}
+
+.thanks__layer-bg {
+    position: absolute;
+    
+}
+
+.thanks__layer-txt {
+    position: absolute;
+    margin: auto;
+
+}
